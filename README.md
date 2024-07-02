@@ -1,4 +1,6 @@
-## Hi there 👋
+## 
+Amishachoudhary22 · she/her
+👋 Hello, World! I'm Amisha Choudhary, a passionate student of computer science with a keen interest in exploring the realms of technology.
 
 <!--
 **Amishachoudhary22/Amishachoudhary22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
