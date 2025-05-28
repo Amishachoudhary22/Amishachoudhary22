@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A passionate Computer Science graduate exploring the limitless world of technology</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=AI+enthusiast+%7C+Full-stack+Developer;Machine+Learning+Practitioner;Love+to+Build+and+Deploy+Projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=460&lines=AI+enthusiast+%7C+Full-stack+Developer;Machine+Learning+Practitioner;Love+to+Build+and+Deploy+Projects!" alt="Typing SVG" />
 </p>
 
 ---
